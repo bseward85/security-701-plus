@@ -1,0 +1,24 @@
+• Use cases of automation and scripting: makes it where you dont have to always be present to fix a problem. You will have a script to do it for you
+- User provisioning: 
+- Resource provisioning:
+- Guard rails:
+- Security groups:
+- Ticket creation:
+- Escalation:
+- Enabling/disabling services and access: 
+- Continuous integration and testing:
+- Integrations and Application programming interfaces (APIs):
+• Benefits
+- Efficiency/time saving:
+- Enforcing baselines:
+- Standard infrastructure configurations:
+- Scaling in a secure manner:
+- Employee retention:
+- Reaction time:
+- Workforce multiplier:
+• Other considerations
+- Complexity:
+- Cost:
+- Single point of failure:
+- Technical debt:
+- Ongoing supportability:
